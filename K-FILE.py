@@ -21,8 +21,5 @@ if bit == "64bit":
  
  
  
-elif bit == "32bit":
  
-        os.system('xdg-open https://youtube.com/@Khalid_Vau')
- 
-        os.system('python file_enc.py')
+        
